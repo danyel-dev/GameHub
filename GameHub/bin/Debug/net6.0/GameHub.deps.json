@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "GameHub/1.0.0": {
+      "gameHub/1.0.0": {
         "runtime": {
-          "GameHub.dll": {}
+          "gameHub.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "GameHub/1.0.0": {
+    "gameHub/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
